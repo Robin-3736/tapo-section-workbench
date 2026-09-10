@@ -24,3 +24,7 @@ The plugin shares the workflow and reference assets. It does not include account
 ## Store and draft selection
 
 The opening form requires a country/market, store handle, and the Theme Editor URL of your explicitly chosen unpublished draft. Use **Help me choose a draft theme** to request a read-only list from your store. No UK store or theme is preselected. Codex verifies the selected store and theme before writing and stops if the theme is live or inaccessible. Existing installations must reinstall this updated package and start a new task.
+
+## Attach reference images
+
+Attach images and other references directly in the Codex chat composer, using the paperclip or drag and drop, before submitting the Brief. The form does not transfer files. Select **I have attached the references in this chat**; Codex must inspect those attachments before coding and ask if they are missing.
