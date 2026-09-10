@@ -20,3 +20,7 @@ Keep the extracted folder in place: it is the local marketplace source. The arch
 Repository owners can invite colleagues through **Settings → Collaborators**. Store permissions are managed separately in Shopify.
 
 The plugin shares the workflow and reference assets. It does not include account credentials, chat history, or sections created in previous tasks. Existing draft-theme sections remain available in Shopify.
+
+## Store and draft selection
+
+The opening form requires a country/market, store handle, and the Theme Editor URL of your explicitly chosen unpublished draft. Use **Help me choose a draft theme** to request a read-only list from your store. No UK store or theme is preselected. Codex verifies the selected store and theme before writing and stops if the theme is live or inaccessible. Existing installations must reinstall this updated package and start a new task.
